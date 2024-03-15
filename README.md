@@ -1,11 +1,7 @@
-<p align=”center”>
 
-<img width=”200" height=”200" src=”https://user-images.blahblah/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
-
-</p>
 <h1 align="center">Hi 👋, I'm Tran Ngoc Khiem</h1>
 <h3 align="center">I have a deep passion for Big Data, Machine Learning, and Blockchain technologies.</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/V3GZakZumXIAAAAM/zelda-cucco.gif">
+<img align="right" alt="Coding" width="300" height = "300" src="https://media.tenor.com/V3GZakZumXIAAAAM/zelda-cucco.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khiemtranngoc&label=Profile%20views&color=0e75b6&style=flat" alt="khiemtranngoc" /> </p>
 
