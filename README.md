@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **www.linkedin.com/in/khiem-tran-98684b220**
 
-- ⚡ Fun fact **Zelda is my favourite game**
+- ⚡ Fun fact **"My favorite game is Zelda, where breaking pots is my way of saving the world, one rupee at a time.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
