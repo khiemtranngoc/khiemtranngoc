@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Tran Ngoc Khiem</h1>
 <h3 align="center">I have a deep passion for Big Data, Machine Learning, and Blockchain technologies.</h3>
-<img align="right" alt="Coding" width="300" height = "300" src="https://media.tenor.com/V3GZakZumXIAAAAM/zelda-cucco.gif">
+<img align="right" alt="Coding" width="230" height = "300" src="https://media.tenor.com/V3GZakZumXIAAAAM/zelda-cucco.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khiemtranngoc&label=Profile%20views&color=0e75b6&style=flat" alt="khiemtranngoc" /> </p>
 
