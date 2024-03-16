@@ -24,7 +24,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=khiemtranngoc&theme=aura&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=khiemtranngoc&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 <a href="https://github.com/khiemtranngoc/Coursera_course_recomendation_system/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
